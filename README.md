@@ -1,2 +1,4 @@
-# hots
-Stuff related to Heroes of the Storm
+= README
+This repository contains materials related to Heroes of the Storm.
+Heroes of the Storm is a trademark of Blizzard Entertainment, Inc.
+None of the materials in this repository are endorsed by Blizzard Entertainment.
